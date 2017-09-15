@@ -5,6 +5,7 @@ public class DebugVacation
    {
       days = 10;
    }
+
    public int getDays()
    {
       return days;
